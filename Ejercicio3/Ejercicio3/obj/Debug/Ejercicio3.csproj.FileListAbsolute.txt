@@ -1,0 +1,6 @@
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
